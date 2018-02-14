@@ -1,0 +1,41 @@
+/* element
+
+li{
+
+}
+class
+
+.hello{
+
+}
+id
+
+#id{
+
+}
+target everything
+
+*{
+    
+}
+descendant
+
+li a{
+
+}
+adjacent/element after 
+
+h4 + ul{
+
+}
+target attribute
+
+a[href = "http://www.google.com"]{
+
+}
+nth of type/for every nth of element
+
+ul:nth-of-type(3){
+    
+} */
+
